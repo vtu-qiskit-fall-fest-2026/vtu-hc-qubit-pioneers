@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Qubit Pioneers** · Team ID `VTU-QFF-HC-0070` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Qubit Pioneers)
+[⬆ Back to Top](#qubit-pioneers)
 
 </div>
